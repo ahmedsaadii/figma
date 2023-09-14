@@ -1,0 +1,255 @@
+body{
+    overflow-x: hidden;  
+   
+    
+}
+.firstdiv {
+    text-decoration: none;
+    right: 5%;
+    top: 15px;
+    position: absolute;
+    padding: 15px 30px;
+     ;
+}
+.firstdiv a{
+    color: #000;
+font-family: Roboto;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-decoration: none;
+padding: 0 5px;
+
+}
+.firstarrow{
+  margin-left: 70px;
+}
+h1{
+    position: relative;
+    color: #000;
+font-family: Roboto;
+font-size: 96px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+margin-left: 50px;
+bottom: 350px;
+
+}
+span{
+    color: #006D77;
+font-family: Roboto;
+font-size: 96px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+position: relative;
+}
+p{
+    color: #000;
+font-family: Roboto;
+font-size: 36px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+position: absolute;
+bottom: 5%;
+margin-left: 5%;
+}
+.seconddiv{
+    height: 4px;
+    width: 60%;
+    background-color: #006D77;
+    top: 650px;
+    position: absolute;
+    left: 40%;
+}
+.thirddiv{
+   position: relative;
+ display: inline-block;
+margin-left: 75%;
+bottom: 150px ;
+ 
+}
+.h2{
+    font-size: 300px;
+    color: rgba(9, 112, 112, 0.201);
+}
+.fourthdiv{
+    bottom: 800px;
+    position: relative;
+    margin-left: 70%;
+    
+}
+.fifthdiv,
+.fifthdiv li{
+    display: inline-block;
+    list-style: none;
+    font-size: 30px;
+    font-family: monospace;
+}
+.sixdiv{
+    position: relative;
+    display: inline-block;
+    margin-left: 300px;
+    bottom: 650px;
+}
+.sixdiv p{
+    width: 396px;
+height: 189px;
+color: #000;
+font-family: Permanent Marker;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-left: 40px;
+position: relative;
+float: right;
+border: #000 5px solid;
+text-align: center;
+}
+.imgtwo{
+    left: 60px;
+    position: relative;
+    top: 90px;
+}
+.sevdiv a{
+    text-decoration: none;
+    background-color: #006D77;
+    padding: 15px 35px ;
+    font-size: 20px;
+    color: white;
+    position: relative;
+    bottom: 620px ;
+    margin-left: 20px;
+    border-radius: 16px;
+background: #83C5BE;
+
+}
+.sevdiv{
+    margin-left: 320px;
+    position: relative;
+    
+}
+.eightdiv p{
+   position: relative;
+   border: #000 5px solid;
+   border-width: auto;
+   display: inline-block;
+   top: 82px;
+   right: 400px;
+}
+.eightdiv{
+    position: relative;
+    bottom: 600px;
+}
+.eightdiv img{
+    bottom: 90px;
+    position: relative;
+    margin-left: 30%;
+}
+.hthree{
+    position: relative;
+    font-size: 300px;
+    bottom: 1120px;
+    left: 55%;
+    color: #83c5bf52;
+}
+.imgthree{
+    margin: 0;
+    padding: 0;
+    position: relative;
+    bottom: 1250px;
+    left: 30%;
+}
+
+.imgfour{
+ padding: 0;
+ margin: 0;
+ position: relative;
+ bottom: 1200px;
+ right: 800px;
+}
+.nindiv p{
+    position: relative;
+    display: inline-block;
+    
+}
+.nindiv{
+    position: relative;
+    display: block;
+    bottom: 1300px ;
+    left: 90px;
+}
+.nindiv img{
+  position: relative;  
+  top: 60px;
+}
+.nindiv a{
+    background-color: #83C5BE;
+    padding: 15px 12px;
+    text-decoration: none;
+    border-radius: 20px;
+    color: white;
+    width: 400px;
+    position: relative;
+    font-size: 20px;
+}
+.hfour{
+    font-size: 300px;
+    position: relative;
+    bottom: 1400px;
+    color: #EDF6F9;
+    font-weight: 900;
+}
+.imgfiv{
+    width: 674px;
+    height: 764px;
+    flex-shrink: 0;
+    position: relative;
+    float: right;
+    bottom: 2000px;
+}
+.tendiv p {
+    position: relative;
+    bottom: 1600px;
+}
+.lastp{
+    position: relative;
+    bottom: 1620px;
+}
+.lasth{
+    color: #EDF6F9;
+font-family: Roboto;
+font-size: 300px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+position: relative;
+bottom: 1700px;
+left: 30%;
+}
+.elevdiv p{
+    position: relative;
+    bottom: 1800px;
+    left: 50px;
+
+}
+.elevdiv {
+    
+}
+.email{
+    position: relative;
+    bottom: 1850px;
+    left: 20px;
+    float: left;
+
+
+}
+.twelvdiv{
+    position: relative;
+    bottom: 1900px;
+    left: 65%;
+}
